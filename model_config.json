@@ -1,0 +1,21 @@
+{
+    "findings": [
+        "hemorrhage",
+        "hard_exudates",
+        "cotton_wool_spots",
+        "retinal_detachment"
+    ],
+    "report_columns": [
+        "microaneurysm",
+        "hemorrhage",
+        "exudate",
+        "cotton wool",
+        "retinal detachment",
+        "optic disc"
+    ],
+    "image_size": [
+        224,
+        224
+    ],
+    "threshold": 0.5
+}
