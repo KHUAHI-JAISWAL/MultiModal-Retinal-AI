@@ -53,4 +53,12 @@ This project is for educational and research purposes only. It is not intended f
 ## 👩‍💻 Author
 **Khushi Jaiswal**
 
+Model development and multimodal deep learning.
+
 [GitHub Profile](https://github.com/KHUAHI-JAISWAL)
+
+**Reena Soni**
+
+Streamlit UI development and application integration.
+
+[GitHub Profile](https://github.com/reenasoni1757)
